@@ -7,3 +7,4 @@ Hangman Game: One player thinks of a word, phrase or sentence and the other trie
 
 Emoji Converter: It contains a program such that according to your entered mood keyboard emoji and statement, it will convert the keyboard emoji and rewrrite the statement.
 
+Calc: Virtual Calculator program that works just like our calculator and doesn't ask for operators seperately, calculates and gives results with the option to keep on continuing with the previous result. 
